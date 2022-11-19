@@ -1,7 +1,5 @@
 # UI-Spec-Doc
-<br>
 ## UI Specification Document for User Management Screen for Technical Questionnaire ( Junior Software Product Design Engineer )
-<br>
 ### Pages:
 - User Management Screen (/admin/users/manage)
   - Add New User button (shall New User modal)
@@ -10,10 +8,10 @@
   - Save User button (shall save  a user when the new user form is successfully done)
   - The New User form consists of inputs and labels for 
    - Username (as text)
-   - Display Name  (as text)
-   - Phone  (as text)
-   - Email  (as text)
-   - User Roles (as a select box > Guest | Admin | SuperAdmin)
-   - Enabled (as checkbox)
+     - Display Name  (as text)
+     - Phone  (as text)
+     - Email  (as text)
+     - User Roles (as a select box > Guest | Admin | SuperAdmin)
+     - Enabled (as checkbox)
 
 
